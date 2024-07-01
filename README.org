@@ -1,0 +1,4 @@
+#+title: Moka Icon Theme
+#+author: Zoltán Király
+#+email: public@zoltankiraly.com
+#+date: [2024-07-01 Mon 16:20]

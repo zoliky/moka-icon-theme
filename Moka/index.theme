@@ -1,0 +1,50 @@
+[Icon Theme]
+Name=Moka
+Comment=A simple and consistent icon theme.
+Inherits=Adwaita
+
+# Directory list
+Directories=16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,96x96/apps,256x256/apps
+ScaledDirectories=16x16@2x/apps,22x22@2x/apps,24x24@2x/apps,32x32@2x/apps,48x48@2x/apps,64x64@2x/apps,96x96@2x/apps,256x256@2x/apps
+
+# Applications
+
+[16x16/apps]
+Context=Applications
+Size=16
+Type=Threshold
+
+[22x22/apps]
+Context=Applications
+Size=22
+Type=Threshold
+
+[24x24/apps]
+Context=Applications
+Size=24
+Type=Threshold
+
+[32x32/apps]
+Context=Applications
+Size=32
+Type=Threshold
+
+[48x48/apps]
+Context=Applications
+Size=48
+Type=Threshold
+
+[64x64/apps]
+Context=Applications
+Size=64
+Type=Threshold
+
+[96x96/apps]
+Context=Applications
+Size=96
+Type=Threshold
+
+[256x256/apps]
+Context=Applications
+Size=256
+Type=Threshold
